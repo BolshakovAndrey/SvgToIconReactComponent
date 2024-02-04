@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SvgToIconReactComponent/static/css/main.20ba9dc0.css",
+    "main.js": "/SvgToIconReactComponent/static/js/main.6b7460a8.js",
+    "static/js/592.5ab742f5.chunk.js": "/SvgToIconReactComponent/static/js/592.5ab742f5.chunk.js",
+    "static/media/font-icons.svg?2eggr4": "/SvgToIconReactComponent/static/media/font-icons.269abfe9de9eff17a507.svg",
+    "static/media/logo.svg": "/SvgToIconReactComponent/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/font-icons.eot?2eggr4": "/SvgToIconReactComponent/static/media/font-icons.29d69257b2cdea28dd70.eot",
+    "static/media/font-icons.woff?2eggr4": "/SvgToIconReactComponent/static/media/font-icons.c5726d4021e161fa04e8.woff",
+    "static/media/font-icons.ttf?2eggr4": "/SvgToIconReactComponent/static/media/font-icons.b658cda26838901df885.ttf",
+    "index.html": "/SvgToIconReactComponent/index.html",
+    "main.20ba9dc0.css.map": "/SvgToIconReactComponent/static/css/main.20ba9dc0.css.map",
+    "main.6b7460a8.js.map": "/SvgToIconReactComponent/static/js/main.6b7460a8.js.map",
+    "592.5ab742f5.chunk.js.map": "/SvgToIconReactComponent/static/js/592.5ab742f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20ba9dc0.css",
+    "static/js/main.6b7460a8.js"
+  ]
+}
